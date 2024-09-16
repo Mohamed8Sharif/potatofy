@@ -10,7 +10,11 @@ export default function Home() {
     overflow-hidden
     overflow-y-auto">
       <Header>
-        Header
+        <div className="mb-2">
+          <h1 className="">
+            Welcome back
+          </h1>
+        </div>
       </Header>
     </div>
   )
